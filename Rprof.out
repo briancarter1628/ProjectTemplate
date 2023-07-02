@@ -1,7 +1,0 @@
-sample.interval=20000
-"ls" "FUN" "lapply" ".rs.objectsOnSearchPath" "unlist" ".rs.availableRSymbols" 
-"ls" "FUN" "lapply" ".rs.objectsOnSearchPath" ".rs.getCompletionsSearchPath" "Reduce" ".rs.rpc.get_completions" 
-".Call" ".rs.scoreMatches" ".rs.sortCompletions" ".rs.getCompletionsPackages" "Reduce" ".rs.rpc.get_completions" 
-"union" ".rs.getCompletionsPackages" "Reduce" ".rs.rpc.get_completions" 
-"doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" ".rs.getHelpFromObject" ".rs.getHelpFunction" "impl" ".rs.rpc.get_help" 
-"lapply" "RdTags" "writeContent" "writeWrapped" "writeBlock" "writeContent" "writeSection" "Rd2HTML" "tools:::httpd" "withCallingHandlers" "suppressWarnings" ".rs.getHelp" ".rs.getHelpFromObject" ".rs.getHelpFunction" "impl" ".rs.rpc.get_help" 

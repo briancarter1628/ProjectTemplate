@@ -17,13 +17,14 @@ lapply(myPackages, require, character.only = TRUE)
 
 main_path <- getwd() %>% normalizePath()
 output_path <-  main_path %>% glue("/output")
+input_path <- main_path %>% glue("/data")
 test_path <- main_path %>% glue("/tests")
 
 
 # Environmental variables -------------------------------------------------
 
 suppressMessages({
-env_specs <- "config/env_specs.csv" %>%
+env_specs <- "config/env_params.csv" %>%
      readr::read_csv()
 })
 
