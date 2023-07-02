@@ -5,7 +5,7 @@
 
 # Already loaded by the Rprofile
 # "dplyr", "magrittr", "parallel", "dbplyr", "RSQLite",
-# "openxlsx", "DBI", "glue", "readr"
+# "openxlsx", "DBI", "glue", "readr", "testthat"
 
 
 # Source functions --------------------------------------------------------
